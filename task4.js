@@ -1,1 +1,1 @@
-task4
+console.log('task4')
